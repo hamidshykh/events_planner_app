@@ -1,0 +1,136 @@
+<resources>
+    <string name="app_name">MARRANGE</string>
+
+    <!--    common list-->
+
+    <string-array name="guestCount">
+        <item>Guest Count</item>
+        <item>Value 1</item>
+        <item>Value 2</item>
+        <item>Value 3</item>
+        <item>Value 4</item>
+    </string-array>
+
+    <string-array name="estimatedBudget">
+        <item>Estimated Budget</item>
+        <item>Value 1</item>
+        <item>Value 2</item>
+        <item>Value 3</item>
+        <item>Value 4</item>
+    </string-array>
+
+
+    <!--    End common list-->
+
+    <!--    parties list-->
+
+    <string-array name="partiesList">
+        <item>Schedule your event</item>
+        <item>Value 1</item>
+        <item>Value 2</item>
+        <item>Value 3</item>
+        <item>Value 4</item>
+    </string-array>
+
+    <string-array name="selectPartyPlace">
+        <item>Select Your Party PLace</item>
+        <item>Value 1</item>
+        <item>Value 2</item>
+        <item>Value 3</item>
+        <item>Value 4</item>
+    </string-array>
+
+    <string-array name="themes">
+        <item>Select Your Theme</item>
+        <item>Black And White</item>
+        <item>Red And White</item>
+        <item>Green And White</item>
+        <item>Multi</item>
+    </string-array>
+    <!--   End parties list-->
+
+
+    <!--    Birthday List-->
+    <string-array name="birthdayList">
+        <item>Schedule your event</item>
+        <item>Value 1</item>
+        <item>Value 2</item>
+        <item>Value 3</item>
+        <item>Value 4</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Gender</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="selectBirthdayPlace">
+        <item>Select Your Birthday PLace</item>
+        <item>Value 1</item>
+        <item>Value 2</item>
+        <item>Value 3</item>
+        <item>Value 4</item>
+    </string-array>
+
+    <string-array name="ballonthemes">
+        <item>Select Your Ballon Theme</item>
+        <item>Black And White</item>
+        <item>Red And White</item>
+        <item>Green And White</item>
+        <item>Multi</item>
+    </string-array>
+    <!--  End Birthday List-->
+
+    <!--    Wedding List-->
+
+    <string-array name="weddingList">
+        <item>Schedule your event</item>
+        <item>Value 1</item>
+        <item>Value 2</item>
+        <item>Value 3</item>
+        <item>Value 4</item>
+    </string-array>
+
+    <string-array name="selectWeddingPlace">
+        <item>Select Your Wedding PLace</item>
+        <item>Value 1</item>
+        <item>Value 2</item>
+        <item>Value 3</item>
+        <item>Value 4</item>
+    </string-array>
+
+    <string-array name="stageShape">
+        <item>Select Your Stage Shape</item>
+        <item>Value 1</item>
+        <item>Value 2</item>
+        <item>Value 3</item>
+        <item>Value 4</item>
+    </string-array>
+
+    <string-array name="themeOfStageFurniture">
+        <item>Color Of Stage Furniture</item>
+        <item>Black And White</item>
+        <item>Red And White</item>
+        <item>Green And White</item>
+        <item>Multi</item>
+    </string-array>
+
+    <string-array name="selectStageFlowers">
+        <item>Select Stage Flowers</item>
+        <item>Black And White</item>
+        <item>Red And White</item>
+        <item>Green And White</item>
+        <item>Multi</item>
+    </string-array>
+
+    <string-array name="guestTableFlowers">
+        <item>Guest Table Decoration Flowers</item>
+        <item>Black And White</item>
+        <item>Red And White</item>
+        <item>Green And White</item>
+        <item>Multi</item>
+    </string-array>
+    <!--   End Wedding List-->
+
+</resources>
